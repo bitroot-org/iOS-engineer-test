@@ -1,5 +1,5 @@
 ![posts](https://avatars.githubusercontent.com/u/63720760?s=100&v=4)
-## 2021 iOS Intern Test by Bitroot Org.
+## 2021 iOS Test by Bitroot Org.
 
 ![Bitroot iOS internship](https://img.shields.io/badge/iOS-Internship-blue?style=flat-square&link=https://bitroot.org)
 ![Use iOS](https://img.shields.io/badge/iOS-181717?style=flat-square&logo=apple)
